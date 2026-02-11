@@ -30,3 +30,6 @@ cp .env.example .env
 ```bash
 python service.py
 ```
+Alle weiteren Informationen zur Nutzung sind in der FastAPI Oberfläche sichtbar
+
+http://API_HOST:API_PORT/docs

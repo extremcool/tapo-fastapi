@@ -1,5 +1,10 @@
 Ein simpler FastAPI Microservice, der den RTSP Stream von TP-Link Tapo Kameras abgreift
 
+### Projekt klonen
+```bash
+git clone https://github.com/extremcool/tapo-fastapi.git
+```
+
 ### Virtuelle Umgebung erstellen:
 ```bash
 python -m venv venv

@@ -1,6 +1,6 @@
 Ein simpler FastAPI Microservice, der den RTSP Stream von TP-Link Tapo Kameras abgreift
 
-Die FastAPI wird durch einen Bearer Token geschützt, deshalb bitte nur in isolierten Netzwerken oder hinter einem SSL/TLS-verschlüsselten Reverse Proxy betreiben.
+Die FastAPI wird durch einen Bearer Token geschützt. Bitte nur in isolierten Netzwerken oder hinter einem SSL/TLS-verschlüsselten Reverse Proxy betreiben, andernfalls könnte der Token abgegriffen werden.
 
 ### Projekt klonen
 ```bash

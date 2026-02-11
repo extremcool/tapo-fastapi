@@ -33,3 +33,5 @@ python service.py
 Alle weiteren Informationen zur Nutzung sind in der FastAPI Oberfläche sichtbar
 
 http://API_HOST:API_PORT/docs
+
+Die FastAPI wird durch einen Bearer Token geschützt, deshalb bitte nur in isolierten Netzwerken oder hinter einem SSL/TLS-verschlüsselten Reverse Proxy betreiben.
